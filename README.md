@@ -5,14 +5,18 @@
 # How to use 
 
 just clone this repo: 
-``` git clone https://github.com/masshuvo/login_page.git ```
+``` 
+git clone https://github.com/masshuvo/login_page.git
+```
 </br>
 
 `cd login_page`
 
 ### then you can run it in your local server. </br>
 
-``` php -S 127.0.0.1:8080 ```
+``` 
+php -S 127.0.0.1:8080
+ ```
 
 </br>
 → You can use any port number as you like :
@@ -29,4 +33,6 @@ If you're running a server locally and don't have any specific requirements or c
 # If there is any problem to use then you must check if execute permission is given.
 if need :  </br>
 
-``` chmod +x * ```
+``` 
+chmod +x *
+```
