@@ -36,3 +36,5 @@ if need :  </br>
 ``` 
 chmod +x *
 ```
+# credential
+the default username and password is: admin
