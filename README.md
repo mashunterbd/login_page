@@ -6,9 +6,15 @@
 
 just clone this repo: 
 ``` git clone https://github.com/masshuvo/login_page.git ```
+</br>
+
 `cd login_page`
-### then you can run it in your local server. 
+
+### then you can run it in your local server. </br>
+
 ``` php -S 127.0.0.1:8080 ```
+
+</br>
 → You can use any port number as you like :
 You can generally use any available port number from the range 0 to 65535 for running a server locally. However, there are well-known port numbers reserved for specific services. Commonly used ports include:
 
@@ -21,5 +27,6 @@ DNS (domain name system): 53
 If you're running a server locally and don't have any specific requirements or conflicts, you can choose a port number that is not already assigned to a well-known service or commonly used by other applications. Ports from 49152 to 65535 are often referred to as dynamic or private ports and can be used for local purposes without conflicting with well-known services.
 
 # If there is any problem to use then you must check if execute permission is given.
-if need : 
+if need :  </br>
+
 ``` chmod +x * ```
